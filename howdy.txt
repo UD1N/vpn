@@ -1,1 +1,5 @@
-.
+trojan://4543edb0-6842-11ef-8a6f-1239d0255272@sg1-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg1-trojan.bonds.id&allowInsecure=1&fp=chrome#SG1
+
+trojan://fdf1b7e0-68b3-11ef-b5db-1239d0255272@sg2-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg2-trojan.bonds.id&allowInsecure=1#SG2
+
+trojan://5c05bac0-68b4-11ef-b0b9-1239d0255272@sg3-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg3-trojan.bonds.id&allowInsecure=1#SG3
