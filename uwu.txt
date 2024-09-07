@@ -2,9 +2,9 @@ vless://b981829e-9bd1-4a7d-880d-9169fc2bd275@pPAL03.JESSy-pAdbErg.workERs.deV:44
 
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@sdfee4.azurewebsites.net:443?flow=&fp=chrome&host=sdfee4.azurewebsites.net&path=%2F&security=tls&sni=sdfee4.azurewebsites.net&type=ws#UWU2
 
-vless://e1cf1cbc-a1b0-4db8-86b0-45dd2e8a68da@easynet23.gosomok252.workers.dev:443?flow=&fp=chrome&host=easynet23.gosomok252.workers.dev&path=%2F&security=tls&sni=easynet23.gosomok252.workers.dev&type=ws#UWU3
+vless://e1cf1cbc-a1b0-4db8-86b0-45dd2e8a68da@bug.host:443?flow=&fp=chrome&host=easynet23.gosomok252.workers.dev&path=%2F&security=tls&sni=easynet23.gosomok252.workers.dev&type=ws#UWU3
 
-vless://d3a12e79-ef42-4268-b367-42eeb3494e60@hagh.pages.Dev:443?flow=&fp=chrome&host=hagh.pages.Dev&path=%2F%3Fed%3D2048&security=tls&sni=hagh.pages.Dev&type=ws#UWU4
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@bug.host:443?flow=&fp=chrome&host=hagh.pages.Dev&path=%2F%3Fed%3D2048&security=tls&sni=hagh.pages.Dev&type=ws#UWU4
 
 vless://c416be20-32b3-467f-83c2-735e04d639f7@summer-king-3735.segete5426.workers.dev:443?flow=&fp=randomized&host=summer-king-3735.segete5426.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=summer-king-3735segete5426.workers.dev&type=ws#UWU5
 
