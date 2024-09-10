@@ -7,3 +7,7 @@ trojan://5c05bac0-68b4-11ef-b0b9-1239d0255272@sg3-trojan.bonds.id:443/?type=tcp&
 trojan://82692e90-6ea1-11ef-8c48-1239d0255272@sg-4.test3.net:443/?type=tcp&security=tls&sni=sg-4.test3.net#melbi
 
 trojan://c4d44cb0-6ea4-11ef-9320-1239d0255272@usa.test3.net:443/?type=tcp&security=tls&sni=usa.test3.net#usa
+
+trojan://0dfb8720-6f70-11ef-8d36-1239d0255272@sg2-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg2-trojan.bonds.id#SG-2
+
+trojan://69372b90-6f70-11ef-bd7c-1239d0255272@uk1.test3.net:443/?type=tcp&security=tls&sni=uk1.test3.net#UK
