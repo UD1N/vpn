@@ -1,11 +1,11 @@
-trojan://4543edb0-6842-11ef-8a6f-1239d0255272@sg1-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg1-trojan.bonds.id&allowInsecure=1&fp=chrome#SG1
+trojan://b27e2b30-7103-11ef-b8e6-1239d0255272@sg1-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg1-trojan.bonds.id#SG1
 
 trojan://82692e90-6ea1-11ef-8c48-1239d0255272@sg-4.test3.net:443/?type=tcp&security=tls&sni=sg-4.test3.net#melbi
 
 trojan://c4d44cb0-6ea4-11ef-9320-1239d0255272@usa.test3.net:443/?type=tcp&security=tls&sni=usa.test3.net#usa
 
-trojan://0dfb8720-6f70-11ef-8d36-1239d0255272@sg2-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg2-trojan.bonds.id#SG-2
+trojan://0dfb8720-6f70-11ef-8d36-1239d0255272@sg2-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg2-trojan.bonds.id#SG2
 
 trojan://69372b90-6f70-11ef-bd7c-1239d0255272@uk1.test3.net:443/?type=tcp&security=tls&sni=uk1.test3.net#UK
 
-trojan://171b4650-6f71-11ef-afcb-1239d0255272@sg3-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg3-trojan.bonds.id#SG-3
+trojan://171b4650-6f71-11ef-afcb-1239d0255272@sg3-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg3-trojan.bonds.id#SG3
