@@ -4,4 +4,4 @@ trojan://c4d44cb0-6ea4-11ef-9320-1239d0255272@usa.test3.net:443/?type=tcp&securi
 
 trojan://51d79060-736c-11ef-880d-1239d0255272@sg2-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg2-trojan.bonds.id#SG2
 
-trojan://171b4650-6f71-11ef-afcb-1239d0255272@sg3-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg3-trojan.bonds.id#SG3
+trojan://4aafc810-736d-11ef-96b2-1239d0255272@sg3-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg3-trojan.bonds.id#SG3
