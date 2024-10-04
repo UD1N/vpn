@@ -1,3 +1,4 @@
+proxies:
 - name: Vmess Singapore 1
   server: quiz.int.vidio.com
   type: vmess
