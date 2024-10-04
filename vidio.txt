@@ -1,19 +1,77 @@
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FShenzhen-SG#Shenzhen-SG
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FShenzhen-JP#Shenzhen-JP
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FM1LIMITED-SG#M1LIMITED-SG
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FGIGABIT-MY#GIGABIT-MY
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FTELKOM-MY#TELKOM-MY
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FGOOGLE-ID#GOOGLE-ID
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FNPO-SG#NPO-SG
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FMEGALAYER-SG#MEGALAYER-SG
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FRUMAHWEB-ID#RUMAHWEB-ID
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FAKARI-SG#AKARI-SG
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FORACLE-SG#ORACLE-SG
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FALIBABA-SG#ALIBABA-SG
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FOVH-SG#OVH-SG
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FARYAKA-SG#ARYAKA-SG
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FTCC-SG#TCC-SG
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FBELNET-SG#BELNET-SG
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FAMAZON-SG#AMAZON-SG
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FDIGITALOCEAN-SG#DIGITALOCEAN-SG
-vless://Noir7R@quiz.int.vidio.com:443?encryption=none&security=tls&sni=quiz.int.vidio.com.beat.rmtq.fun&fp=randomized&type=ws&host=quiz.int.vidio.com.beat.rmtq.fun&path=%2FHOTKEY-ID#HOTKEY-ID
+- name: Vmess Singapore 1
+  server: quiz.int.vidio.com
+  type: vmess
+  port: 80
+  uuid: fd200446-f7f8-4549-b4d8-4a23baea04bf
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  servername: 
+  network: ws
+  ws-opts:
+    path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
+    headers:
+      Host: 99806388192980142300309475767578.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou
+  udp: true
+
+- name: Vless Singapore 2
+  server: quiz.int.vidio.com
+  type: vless
+  port: 443
+  uuid: 6dafbc98-1e6e-4aaf-aa40-632f7b90e591
+  tls: true
+  skip-cert-verify: true
+  servername: 46934504869685551434715544632417.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou
+  network: ws
+  ws-opts:
+    path: /V2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS
+    headers:
+      Host: 46934504869685551434715544632417.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou
+  udp: true
+
+- name: Trojan Indonesian 1
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: gun5I1n5dL1zImera-ewZw
+  skip-cert-verify: true
+  sni: kepergoksaat.edydanjekibuatvideomesum.live
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: kepergoksaat.edydanjekibuatvideomesum.live
+  udp: true
+
+- name: Vmess Indonesian 2
+  server: quiz.int.vidio.com
+  type: vmess
+  port: 443
+  uuid: aa090af8-c590-4c84-9879-da25a6f6e948
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: true
+  servername: kepergoksaat.edydanjekibuatvideomesum.live
+  network: ws
+  ws-opts:
+    path: /vmess
+    headers:
+      Host: kepergoksaat.edydanjekibuatvideomesum.live
+  udp: true
+
+- name: Vless Indonesian 3
+  server: quiz.int.vidio.com
+  type: vless
+  port: 443
+  uuid: 1d2dad26-855d-4a23-b66a-a6f991ac6e82
+  tls: true
+  skip-cert-verify: true
+  servername: kepergoksaat.edydanjekibuatvideomesum.live
+  network: ws
+  ws-opts:
+    path: /vless
+    headers:
+      Host: kepergoksaat.edydanjekibuatvideomesum.live
+  udp: true
