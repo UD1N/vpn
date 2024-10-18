@@ -1,7 +1,4 @@
-trojan://46d51390-8128-11ef-915e-1239d0255272@sg3-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg3-trojan.bonds.id#SG3
-
-trojan://f528ae90-81d6-11ef-a983-1239d0255272@sg1-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg1-trojan.bonds.id#SG1
 
 trojan://d59dcb60-8164-11ef-8879-1239d0255272@sg2-trojan.bonds.id:443/?type=ws&host=sg2-trojan.bonds.id&path=%2Fhowdy&security=tls&sni=sg2-trojan.bonds.id#SG2
 
-vmess://eyJhZGQiOiJkNnFlOS56ZXJvb29zdG9yZS5teS5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZDZxZTkuemVyb29vc3RvcmUubXkuaWQiLCJpZCI6ImZmNmMxNTZiLTI3ZjAtNDdiMC1hOTJiLWQzYmFmYWE3YzYzYyIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI0NDMiLCJwcyI6IjMwIiwic2N5IjoiYXV0byIsInNuaSI6ImQ2cWU5Lnplcm9vb3N0b3JlLm15LmlkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://5c54a820-8cf7-11ef-94a2-1239d0255272@sg3-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg3-trojan.bonds.id#SG3
