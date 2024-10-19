@@ -1,3 +1,109 @@
+proxies:
+
+- name: Vmess Germany ðŸ‡©ðŸ‡ª
+  server: quiz.vidio.com
+  type: vmess
+  port: 80
+  uuid: 441e10f0-4c76-4d6c-97b9-83bbefcbc602
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  servername: 
+  network: ws
+  ws-opts:
+    path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
+    headers:
+      Host: 39238319310964543920519489701900.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou
+  udp: true
+
+- name: Vmess Netherlands ðŸ‡³ðŸ‡±
+  server: quiz.vidio.com
+  type: vmess
+  port: 80
+  uuid: 5302e8a3-9514-41b9-bf15-f2a2575653fb
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  servername: 
+  network: ws
+  ws-opts:
+    path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
+    headers:
+      Host: 58892877706648357761980405045364.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou
+  udp: true
+
+- name: Vmess France ðŸ‡«ðŸ‡·
+  server: quiz.vidio.com
+  type: vmess
+  port: 80
+  uuid: d0e6f62a-6f1f-457e-a872-40a6ae866adb
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  servername: 
+  network: ws
+  ws-opts:
+    path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
+    headers:
+      Host: 73012792103530616183052842717949.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou
+  udp: true
+
+- name: Vmess United Kingdom ðŸ‡¬ðŸ‡§
+  server: quiz.vidio.com
+  type: vmess
+  port: 80
+  uuid: 83452b53-dabc-4d13-b2e6-b904ffee8f5b
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  servername: 
+  network: ws
+  ws-opts:
+    path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
+    headers:
+      Host: 50907082685942059876387799824779.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou
+  udp: true
+
+- name: Vmess United States ðŸ‡ºðŸ‡¸
+  server: quiz.vidio.com
+  type: vmess
+  port: 80
+  uuid: 7a8c8e19-b110-4224-89c5-f32f8c9b07eb
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  servername: 
+  network: ws
+  ws-opts:
+    path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
+    headers:
+      Host: 68690907783461163508239105253758.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou
+  udp: true
+
+- name: Vmess Singapore ðŸ‡¸ðŸ‡¬
+  server: quiz.vidio.com
+  type: vmess
+  port: 80
+  uuid: 2314e55f-08d4-4440-b774-80c937a1851f
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  servername: 
+  network: ws
+  ws-opts:
+    path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
+    headers:
+      Host: 99806388192980142300309475767578.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou
+  udp: true
+
+
+
 trojan://440869b0-8cf8-11ef-a842-1239d0255272@sg1-trojan.bonds.id:443/?type=tcp&security=tls&sni=sg1-trojan.bonds.id#SG1
 
 trojan://d59dcb60-8164-11ef-8879-1239d0255272@sg2-trojan.bonds.id:443/?type=ws&host=sg2-trojan.bonds.id&path=%2Fhowdy&security=tls&sni=sg2-trojan.bonds.id#SG2
