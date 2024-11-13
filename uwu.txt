@@ -1,31 +1,511 @@
-vless://b981829e-9bd1-4a7d-880d-9169fc2bd275@pPAL03.JESSy-pAdbErg.workERs.deV:443?flow=&fp=chrome&host=pPAL03.JESSy-pAdbErg.workERs.deV&path=%2FlMuv-8IfB5AOf3_-%3Fed%3D2048&security=tls&sni=pPaL03.JesSy-PADBerg.WorkeRS.DEv&type=ws#UWU1
-
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@sdfee4.azurewebsites.net:443?flow=&fp=chrome&host=sdfee4.azurewebsites.net&path=%2F&security=tls&sni=sdfee4.azurewebsites.net&type=ws#UWU2
-
-vless://e1cf1cbc-a1b0-4db8-86b0-45dd2e8a68da@bug.host:443?flow=&fp=chrome&host=easynet23.gosomok252.workers.dev&path=%2F&security=tls&sni=easynet23.gosomok252.workers.dev&type=ws#UWU3
-
-vless://d3a12e79-ef42-4268-b367-42eeb3494e60@bug.host:443?flow=&fp=chrome&host=hagh.pages.Dev&path=%2F%3Fed%3D2048&security=tls&sni=hagh.pages.Dev&type=ws#UWU4
-
-vless://c416be20-32b3-467f-83c2-735e04d639f7@summer-king-3735.segete5426.workers.dev:443?flow=&fp=randomized&host=summer-king-3735.segete5426.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=summer-king-3735segete5426.workers.dev&type=ws#UWU5
-
-trojan://2cba4104747d49d18319e5ade1b93ab5@avianrecruit.com:443?allowInsecure=1&fp=chrome&host=avianrecruit.com&path=%2F6b777a91&security=tls&sni=avianrecruit.com&type=ws#UWU6
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@936a99B4.Vde5-MlX81LANeo.pAgES.dEv:443?flow=&host=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&path=%2Fkkhhl0gssoz7m6id%2Fzgu1lm1lcmxpbm56lmxpbms%3D%3Fed%3D2560&security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws#UWU7
-
-vless://104380d8-f859-421a-bd11-29b2c9fbfa99@famil-5c8.pages.dev:443?flow=&fp=randomized&host=famil-5c8.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=famil-5c8.pages.dev&type=ws#UWU8
-
-vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@4d3d6f00.garywelch.pages.dev:443?alpn=h3&flow=&fp=randomized&host=4d3d6f00.garywelch.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=4d3d6f00.garywelch.pages.dev&type=ws#UWU9
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@00e463Dc.beSTVPn-4xi.PAgES.dEv:443?flow=&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&path=%2Fyuyg5ujoovohfscy%3Fed%3D2560&security=tls&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws#UWU10
-
-vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@de1-moryvpnbot.pages.dev:443?flow=&host=de1-moryvpnbot.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=de1-moryvpnbot.pages.dev&type=ws#UWU11
-
-trojan://Watashi_VPN@t-watashi-r-jacket-o-people-jan.watashi-java.ir:443?fp=chrome&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws#UWU12
-
-vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@bpb-worker-panel-chf.pages.dev:443?alpn=http%2F1.1&flow=&host=bpb-worker-panel-chf.pages.dev&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&sni=bpb-worker-panel-chf.pages.dev&type=ws#UWU13
-
-vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@e10c0e4b.oodaeq2.pages.dev:443?flow=&host=e10c0e4b.oodaeq2.pages.dev&path=tel-proxy_mtm%2F%3Fed%3D2048&security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws#UWU14
-
-vless://f8f5dce2-e66b-45bd-957e-53c1ecdda37a@jAVIdshAh.PageS.deV:443?flow=&host=jAVIdshAh.PageS.deV&path=%2Fppqqxfk8yz3jbnab%3Fed%3D2560&security=tls&sni=jAVIdshAh.PageS.deV&type=ws#UWU15
-
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@ircp-617.pages.dev.:443?alpn=http%2F1.1&flow=&fp=chrome&host=ircp-617.pages.dev.&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=ircp-617.pages.dev.&type=ws#UWU16
+proxies:
+  - name: ROTATE BR ðŸ‡§ðŸ‡·
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 8436bd01-c4f3-43cd-ae41-1c76f1680c45
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=br
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE DK ðŸ‡©ðŸ‡°
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 074156a7-8965-47d1-bf84-56637047612f
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=dk
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE CY ðŸ‡¨ðŸ‡¾
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 67f1ada4-ecc9-40db-9a0b-2255a116a714
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=cy
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE AM ðŸ‡¦ðŸ‡²
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 18bda5fb-1135-49ce-b4ad-68ffb2ed879f
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=am
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE FR ðŸ‡«ðŸ‡·
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: c3394c15-22ad-492f-b435-c899fff22644
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=fr
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE DE ðŸ‡©ðŸ‡ª
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 310274a3-a276-4487-adb3-3bf56af2226d
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=de
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE IT ðŸ‡®ðŸ‡¹
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 3ecff99e-542d-4b68-85b8-b17e96ecafd4
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=it
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE MX ðŸ‡²ðŸ‡½
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 7a1d70af-e627-4aa4-ac43-779c8a67bf5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=mx
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE AL ðŸ‡¦ðŸ‡±
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 13111741-cb0f-44eb-9112-ab7cfda4b113
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=al
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE PL ðŸ‡µðŸ‡±
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 59ed5f38-41e4-4bd4-8a90-229c0f22573f
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=pl
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE RO ðŸ‡·ðŸ‡´
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: d33314fb-4554-42d6-9667-d81081b97d89
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=ro
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE RU ðŸ‡·ðŸ‡º
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 6d140787-81c8-4270-982f-3c9ed6bbfac6
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=ru
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE ES ðŸ‡ªðŸ‡¸
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 97d40652-fe4d-4a05-b98c-219086d67d55
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=es
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE SE ðŸ‡¸ðŸ‡ª
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: f666ca2f-b811-4416-a5c0-553eb165d5cc
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=se
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE CH ðŸ‡¨ðŸ‡­
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 25ff7bc1-ddef-4518-901a-3f2ef1506bcc
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=ch
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE TW ðŸ‡¹ðŸ‡¼
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 13155097-98c2-4177-ad04-d9b8d008a17f
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=tw
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE MD ðŸ‡²ðŸ‡©
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 70bc0b75-380c-4692-8553-db58a173b0c7
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=md
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE TR ðŸ‡¹ðŸ‡·
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: b58e692c-70e3-46df-a3b4-11613704daff
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=tr
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE FI ðŸ‡«ðŸ‡®
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 566ad532-5bbf-4a30-9de7-e108f3f1feb2
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=fi
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE AE ðŸ‡¦ðŸ‡ª
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 08558fbf-e6e6-4a3c-b880-7d05486d1dc9
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=ae
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE IR ðŸ‡®ðŸ‡·
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: c566bb82-6922-458c-8378-5767bcefddc4
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=ir
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE IN ðŸ‡®ðŸ‡³
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 3e9ddc05-e25f-4890-8d5b-c2101caf8f1e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=in
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE CA ðŸ‡¨ðŸ‡¦
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 72ea7a7e-3397-4a0c-ac10-bcd4b4514042
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=ca
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE US ðŸ‡ºðŸ‡¸
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: d4432a4c-367e-47f7-a9f0-7e872595f806
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=us
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE GB ðŸ‡¬ðŸ‡§
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: c1da0c3c-f57a-4156-929b-497c069ee5cf
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=gb
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE HK ðŸ‡­ðŸ‡°
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: b7fb1887-b240-4cdb-8852-4f24413b23af
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=hk
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE VN ðŸ‡»ðŸ‡³
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: caeadf67-2d1d-4836-a985-138e7b93f6df
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=vn
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE TH ðŸ‡¹ðŸ‡­
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 85e9add4-1d37-46d4-b186-6de90a549d67
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=th
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE NL ðŸ‡³ðŸ‡±
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 0200895e-9eff-4549-bd29-bfced1ba60ad
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=nl
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE KR ðŸ‡°ðŸ‡·
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 38c34523-3903-44a2-917b-f9371714ac3e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=kr
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE JP ðŸ‡¯ðŸ‡µ
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 56cacf2d-311a-4864-9330-a83a8d51c6b7
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=jp
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE SG ðŸ‡¸ðŸ‡¬
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: e2a45978-3569-4c2f-b6ef-d9f7f0617f55
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=sg
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE MY ðŸ‡²ðŸ‡¾
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: e3428bae-da56-4016-8af6-e3be666e7a19
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=my
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
+  - name: ROTATE ID ðŸ‡®ðŸ‡©
+    server: nontontv.vidio.com
+    port: 443
+    type: vless
+    uuid: 96fa5852-c5b2-40f5-8bd2-a13ecc60369b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vip.c-stuff.net
+    network: ws
+    ws-opts:
+      path: /rotate=id
+      headers:
+        Host: vip.c-stuff.net
+    udp: true
