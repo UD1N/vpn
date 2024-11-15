@@ -1,0 +1,456 @@
+proxies:
+  - name: Trojan BR
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 9642b1d7-eea1-4863-8fd3-ecf293365bef
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=BR
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan DK
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: fcf41a1a-1396-4aba-96f8-f89127f306af
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=DK
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan CY
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 693d6a87-adc0-4e45-9471-60eaa85c63cb
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=CY
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan AM
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 93c9de37-83d1-49f0-9e89-d69f9a964f56
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=AM
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan FR
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 94ce935f-c911-4012-a6ab-a7be56a461f2
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=FR
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan DE
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 4674de6b-dd2d-4cc6-8798-0e94e4836894
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=DE
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan IT
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: be4e4c14-c7e7-4b00-b5e6-e3343af3be90
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=IT
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan MX
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 05d94829-7ce7-49df-9f18-a1d2800f98d7
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=MX
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan NZ
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 06ac8a72-1b86-49dd-96d9-cf0e1408de3b
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=NZ
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan AL
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: b84abced-5014-4491-9c3f-494a0a60d729
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=AL
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan PL
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 5059cd31-0249-485a-b00c-2b47fb365499
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=PL
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan RO
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: e3dd3351-676d-4609-bd11-0da7c6bd5cc8
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=RO
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan RU
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 25f220d4-1326-4977-9c3e-c75a3f13bbef
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=RU
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan ES
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 3efa4572-59a5-4630-a3e3-0dbdfaa23e5c
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=ES
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan SE
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 21b25f55-b6a7-406c-a687-516ac37a47f1
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=SE
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan CH
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: e4981193-5f31-4bd3-90ab-019fe2b66696
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=CH
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan TW
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 93b3f99a-62a2-449f-ae40-a5f61d9fd805
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=TW
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan MD
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 7d32f6c0-1248-4ac3-ab24-a2a290ac9056
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=MD
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan TR
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 76e834e2-2e1e-433b-9d7d-b5fec8c41dd2
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=TR
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan FI
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 27c2fad4-471b-47ac-8fe2-c7dc567168e7
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=FI
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan AE
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 6e30493e-5c43-490e-9a23-e337360c2297
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=AE
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan IR
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: a53b6c4b-b943-4408-be04-fb857cbfb4f9
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=IR
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan IN
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 8c0e35f8-8d1b-4d4b-a7ba-dd44bc066887
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=IN
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan CA
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 7f8f6d69-a2ac-45be-b267-648837312cf4
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=CA
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan US
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 748d92c2-34a2-43dd-a0f1-a71dc51f91e3
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=US
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan GB
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: bdc149bd-b205-4926-8157-4c76859f295a
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=GB
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan HK
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: b4223f96-636c-4f5c-b37b-22d9390316a2
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=HK
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan VN
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: eea6430d-5cbd-405e-8a56-08c19f6cd2a3
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=VN
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan TH
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 9c271036-2cde-4059-8b27-a385dbbb7bbe
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=TH
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan NL
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 845d2d48-8f28-489f-80ad-42e0225051af
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=NL
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan KR
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: f6d2c4f3-961d-4bb4-949b-29fe463b1c73
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=KR
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan JP
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 735fb4b7-ebb2-4cb1-b05c-e4ffe481af95
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=JP
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan SG
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: 5ae42c88-223a-46cc-a01e-07e38ce6fb54
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=SG
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan MY
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: ef15dcb1-caae-435b-993a-f286f492f7d1
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=MY
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Trojan ID
+    server: img.email1.vidio.com
+    port: 443
+    type: trojan
+    password: eff2d1b4-bfb1-4160-b544-75c9f66e9397
+    skip-cert-verify: true
+    sni: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /trojan=ID
+      headers:
+        Host: vltr.us.kg
+    udp: true
