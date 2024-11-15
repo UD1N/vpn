@@ -1,1 +1,526 @@
-vless://82d67d98-e665-43d7-a234-84bf129e03cc@vltr.vpnoir9r.us.kg:443?path=%2Fvl%3D103.168.146.169%3A20132&security=tls&encryption=none&host=vltr.vpnoir9r.us.kg&type=ws&sni=vltr.vpnoir9r.us.kg#Pt Herza Digital Indonesia 🇮🇩
+proxies:
+  - name: Vless BR
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 0a0c3205-e377-4835-9f4f-5a2738060c5a
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=br
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless DK
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 02a38baa-1753-4548-a08a-339018bdba88
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=dk
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless CY
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 58b291c1-b69c-44a8-8c09-ab7b21d47984
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=cy
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless AM
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 74c98761-71c8-4e16-ae2e-9cf31351b23d
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=am
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless FR
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: afef669d-8687-4d87-a8b9-58ffd6e55202
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=fr
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless DE
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 7daaeaee-af41-4718-b9b9-c64ba21b3edd
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=de
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless IT
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 4258a643-ff14-4bd1-9762-654109974d62
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=it
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless MX
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: cb848509-f134-49bd-a3c5-bda0527ac6f9
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=mx
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless NZ
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: dca55a1b-1fc4-4eac-8d64-c85faafbf591
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=nz
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless AL
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: c701293c-2603-4000-8ccd-7f3df7fb75ef
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=al
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless PL
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: d23a3bc2-133c-42d8-8906-82741974cb24
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=pl
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless RO
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: b687fc1c-ef26-43b1-ad7d-ff920cc808a1
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=ro
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless RU
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: a7c83000-74b9-4eb7-b12d-ca7c7ed34c79
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=ru
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless ES
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 9e7cf12a-02cf-467d-9d37-702ef92510bc
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=es
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless SE
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 11704fe9-63f8-4ec2-a100-fcdbbaf1f100
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=se
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless CH
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 0216b929-60a7-4a45-ba4b-c7b0a6e12f8f
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=ch
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless TW
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: a03d1956-ddb9-4b9d-9dcc-a41fda7af87d
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=tw
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless MD
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 581b70c2-42a7-4e76-874d-965012bb32b0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=md
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless TR
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 2d61078d-7817-40cf-9c2e-c1c6f71257cc
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=tr
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless FI
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: fa8aa02d-f801-48ce-a98d-942ee58a3241
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=fi
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless AE
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 6a88a053-579c-4eb4-9d5f-dae1c6cf30de
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=ae
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless IR
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: ca28466f-5f64-474b-ab1e-6cae5bfacf3b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=ir
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless IN
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 580c6605-81ce-4b37-9b92-59aaa5cad650
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=in
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless CA
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 9f9f130d-cf8f-403f-86fb-0c257c31ca61
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=ca
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless US
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 071a4bc3-4436-4c1c-9e55-b5200431d9cc
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=us
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless GB
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: e06fdd0b-cb4b-407f-a610-efa43e5783ab
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=gb
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless HK
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 701f35c2-9989-4a68-8da8-73438cd2c32d
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=hk
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless VN
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 7bd12a5d-285c-422e-b84e-d5f2143f4640
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=vn
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless TH
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: da7f6480-787b-40f1-8398-189ee6d3ed44
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=th
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless NL
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 95ef93ae-8a8b-4f4c-8f24-b56c01db8793
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=nl
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless KR
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 5c1c3091-82f1-4f56-bc43-169b39e3a4ae
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=kr
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless JP
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 0b5c0309-4bd1-4f92-948a-50901e284f93
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=jp
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless SG
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 7a47aae2-5d76-438e-9046-5240d4b76553
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=sg
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless MY
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: ff89aa91-fe9b-47cf-b414-3f4b53051c7d
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=my
+      headers:
+        Host: vltr.us.kg
+    udp: true
+  - name: Vless ID
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 495bb634-88e3-4f2a-9256-9c66fee9c1d6
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vltr.us.kg
+    network: ws
+    ws-opts:
+      path: /vless=id
+      headers:
+        Host: vltr.us.kg
+    udp: true
