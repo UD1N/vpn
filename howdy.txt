@@ -1,3 +1,5 @@
 trojan://cd0beb50-a401-11ef-a7f4-1239d0255272@nontontv.vidio.com:443/?type=ws&host=sg1-trojan.bonds.id&path=%2Fhowdy&security=tls&sni=sg1-trojan.bonds.id#he1
 
 trojan://cc841c00-99de-11ef-9693-1239d0255272@quiz.vidio.com:443/?type=ws&host=sg2-trojan.bonds.id&path=%2Fhowdy&security=tls&sni=sg2-trojan.bonds.id#HE2
+
+vless://c34d58a4-1583-4ea7-9baa-0172e45e58c9@nontontv.vidio.com:443/?type=ws&encryption=none&host=46934504869685551434715544632417.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&security=tls&sni=46934504869685551434715544632417.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&alpn=http%2F1.1#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
